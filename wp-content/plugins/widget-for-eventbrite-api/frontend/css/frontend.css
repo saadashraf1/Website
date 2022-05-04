@@ -1,0 +1,119 @@
+/**
+ * Front end specific CSS
+ */
+/**
+*
+* default Widget css.
+*/
+.widget .eaw-block .eaw-li__wrap {
+  margin-bottom: 1em;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px; }
+.widget .eaw-block .eaw-li__flex {
+  display: flex;
+  gap: 1em; }
+  .widget .eaw-block .eaw-li__flex .eaw-content-wrap {
+    flex-grow: 1;
+    line-height: 100%; }
+  .widget .eaw-block .eaw-li__flex .eaw-thumb-wrap {
+    flex-shrink: 1; }
+  .widget .eaw-block .eaw-li__flex.eaw-alignright {
+    flex-direction: row-reverse;
+    justify-content: flex-end; }
+  .widget .eaw-block .eaw-li__flex.eaw-aligncenter {
+    flex-direction: column; }
+  .widget .eaw-block .eaw-li__flex.eaw-alignleft {
+    flex-direction: row;
+    justify-content: flex-start; }
+.widget .eaw-block a {
+  display: inline;
+  text-decoration: none; }
+  .widget .eaw-block a.eaw-img {
+    display: block; }
+    .widget .eaw-block a.eaw-img.eaw-aligncenter {
+      text-align: center; }
+.widget .eaw-block h3 {
+  background: none;
+  clear: none;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.5em; }
+.widget .eaw-block .eaw-booknow {
+  margin-top: 1rem;
+  margin-bottom: 1rem; }
+.widget .eaw-block .eaw-thumb {
+  border: 1px solid #EEE;
+  box-shadow: none;
+  margin: 2px 10px 2px 0;
+  padding: 3px; }
+  .widget .eaw-block .eaw-thumb.eaw-aligncenter {
+    margin: 2px auto 2px auto; }
+.widget .eaw-block .eaw-summary {
+  font-size: 12px; }
+.widget .eaw-block .eaw-time {
+  color: #bbb;
+  font-size: 11px; }
+.widget .eaw-block .eaw-comment {
+  color: #bbb;
+  font-size: 11px;
+  padding-left: 5px; }
+
+.elementor-widget-container .eaw-block .eaw-li__wrap {
+  margin-bottom: 1em;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px; }
+.elementor-widget-container .eaw-block .eaw-li__flex {
+  display: flex;
+  gap: 1em; }
+  .elementor-widget-container .eaw-block .eaw-li__flex .eaw-content-wrap {
+    flex-grow: 1;
+    line-height: 100%; }
+  .elementor-widget-container .eaw-block .eaw-li__flex .eaw-thumb-wrap {
+    flex-shrink: 1; }
+  .elementor-widget-container .eaw-block .eaw-li__flex.eaw-alignright {
+    flex-direction: row-reverse;
+    justify-content: flex-end; }
+  .elementor-widget-container .eaw-block .eaw-li__flex.eaw-aligncenter {
+    flex-direction: column; }
+  .elementor-widget-container .eaw-block .eaw-li__flex.eaw-alignleft {
+    flex-direction: row;
+    justify-content: flex-start; }
+.elementor-widget-container .eaw-block a {
+  display: inline;
+  text-decoration: none; }
+  .elementor-widget-container .eaw-block a.eaw-img {
+    display: block; }
+    .elementor-widget-container .eaw-block a.eaw-img.eaw-aligncenter {
+      text-align: center; }
+.elementor-widget-container .eaw-block h3 {
+  background: none;
+  clear: none;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.5em; }
+.elementor-widget-container .eaw-block .eaw-booknow {
+  margin-top: 1rem;
+  margin-bottom: 1rem; }
+.elementor-widget-container .eaw-block .eaw-thumb {
+  border: 1px solid #EEE;
+  box-shadow: none;
+  margin: 2px 10px 2px 0;
+  padding: 3px; }
+  .elementor-widget-container .eaw-block .eaw-thumb.eaw-aligncenter {
+    margin: 2px auto 2px auto; }
+.elementor-widget-container .eaw-block .eaw-summary {
+  font-size: 12px; }
+.elementor-widget-container .eaw-block .eaw-time {
+  color: #bbb;
+  font-size: 11px; }
+.elementor-widget-container .eaw-block .eaw-comment {
+  color: #bbb;
+  font-size: 11px;
+  padding-left: 5px; }
+
+
+
