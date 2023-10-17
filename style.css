@@ -5,30 +5,28 @@
   align-items: flex-end;
   justify-content: center;
   gap: 10px;
-  padding: 500px;
+  padding: 362px 456px;
   position: relative;
   background-color: #050505;
 }
 
 .frame .div {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
-  width: 421px;
   align-items: flex-start;
   justify-content: center;
+  gap: 10px;
+  padding: 0px 76px;
   position: relative;
   flex: 0 0 auto;
-  margin-top: -92.5px;
-  margin-bottom: -92.5px;
 }
 
 .frame .text-wrapper {
   position: relative;
-  width: 467px;
-  height: 148px;
+  width: 470px;
+  height: 106px;
   margin-top: -2px;
   margin-left: -1px;
-  margin-right: -45px;
   -webkit-text-stroke: 1px #000000;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
@@ -36,15 +34,14 @@
   font-size: 96px;
   letter-spacing: 0;
   line-height: normal;
+  white-space: nowrap;
 }
 
 .frame .p {
   position: relative;
-  width: 436px;
-  height: 50px;
+  width: 470px;
+  height: 54px;
   margin-left: -1px;
-  margin-right: -14px;
-  margin-top: -31px;
   -webkit-text-stroke: 1px #000000;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
