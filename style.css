@@ -38,10 +38,10 @@ body, html {
 .frame .p {
   position: absolute;
   width: 45%;
-  top: 52%;
+  top: 53%;
   left: 30%;
   font-family: "Inter-Regular", Helvetica;
-  font-weight: 400;
+  font-weight: 300;
   color: #fffcfc;
   font-size: 20px; /* Using vw for responsive font size */
   letter-spacing: 0;
